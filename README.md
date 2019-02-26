@@ -1,5 +1,5 @@
-# hello-world
+# coinFlip function
 
 Hi!
 
-Just testing the functionality of GitHub.
+Just coded a coin flip simulation using JavaScript
